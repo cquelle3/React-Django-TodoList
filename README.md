@@ -67,7 +67,7 @@ and run the following command
 npm start
 ```
 \
-The React frontend should also now be running.
-\
+The React frontend should also now be running.\
+
 You can now use the Todo List app through a web browser at **http://localhost:3000**
 
