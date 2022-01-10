@@ -11,8 +11,8 @@ and displayed on the React frontend.
 
 ### Python Dependencies
 I recommend using a **Virtual Environment** to run the Python/Django part of the app.
-
-Enter the project folder via the terminal
+\
+Enter the **project** folder via the terminal
 ```
 cd project
 ```
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 
 ### React.js Dependencies
-From the project folder, navigate into the frontend folder via the terminal
+From the **project** folder, navigate into the **frontend** folder via the terminal
 ```
 cd frontend
 ```
@@ -44,7 +44,7 @@ Everything should now be installed!
 Open up two terminal windows, one for running Django and one for running React.
 
 ### First Terminal
-Starting from the React-Django-TodoList folder, cd into the project folder
+Starting from the **React-Django-TodoList** folder, cd into the **project** folder
 ```
 cd project
 ```
@@ -57,7 +57,7 @@ python manage.py runserver
 The Django backend should now be running.
 
 ### Second Terminal
-In the second terminal, also starting from the React-Django-TodoList folder, cd into the frontend folder
+In the second terminal, also starting from the **React-Django-TodoList** folder, cd into the **frontend** folder
 ```
 cd project/frontend
 ```
