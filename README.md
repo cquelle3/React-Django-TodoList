@@ -11,7 +11,7 @@ and displayed on the React frontend.
 
 ### Python Dependencies
 I recommend using a **Virtual Environment** to run the Python/Django part of the app.
-\
+
 Enter the **project** folder via the terminal
 ```
 cd project
