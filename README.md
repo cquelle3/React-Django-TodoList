@@ -1,1 +1,1 @@
-# React-Django-TodoList
+# React-Django Todo List
