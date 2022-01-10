@@ -1,7 +1,7 @@
 # React-Django Todo List
 A Todo List app built in React.js and Django to keep track of incomplete or completed tasks.
 
-Used React-Bootstrap to style the application.
+Used React-Bootstrap to style the application, and Django REST Framework for CRUD operations.
 
 You can add, delete, or edit tasks. All Todo List information is sent and received from the Django backend,
 and displayed on the React frontend.
