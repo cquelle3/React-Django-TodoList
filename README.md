@@ -37,12 +37,13 @@ Then, run the following command
 ```
 npm install
 ```
-
+\
 Everything should now be installed!
 
 # Running the App
 Open up two terminal windows, one for running Django and one for running React.
 
+### First Terminal
 Starting from the React-Django-TodoList folder, cd into the project folder
 ```
 cd project
@@ -52,9 +53,10 @@ and run the following command
 ```
 python manage.py runserver
 ```
-
+\
 The Django backend should now be running.
 
+### Second Terminal
 In the second terminal, also starting from the React-Django-TodoList folder, cd into the frontend folder
 ```
 cd project/frontend
@@ -64,8 +66,8 @@ and run the following command
 ```
 npm start
 ```
-
+\
 The React frontend should also now be running.
-
+\
 You can now use the Todo List app through a web browser at **http://localhost:3000**
 
